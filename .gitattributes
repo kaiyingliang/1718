@@ -1,0 +1,87 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    meta http-equiv=X-UA-Compatible content=IE=edge
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titleDocumenttitle
+    style
+         {
+            margin 0;
+            padding 0;
+        }
+        li {
+            list-style none;
+        }
+        .top {
+            height 50px;
+            background-color gray;
+            margin-top 5px;
+        }
+        .banner {
+            height 100px;
+            width 750px;
+            background-color gray; 
+            margin 10px auto;
+        }
+        .footer {
+            width 750px;
+            height 100px;
+            background-color purple;
+            margin 10px auto;
+        }
+        .footerulli {
+            width 180px;
+            height 100px;
+            background-color gray;
+            float left;
+            margin-right 10px;
+        }
+        .footer .box2 {
+            margin-right 0;
+        } 
+        .box {
+            width 750px;
+            height 200px;
+            background-color purple;
+            margin 10px auto;
+        }
+        .boxulli {
+            width 180px;
+            height 200px;
+            background-color gray;
+            float left;
+            margin-right 10px;
+        }
+        .box .box3 {
+            margin-right 0;
+        } 
+        .bootme {
+            height 75px;
+            background-color gray;
+            margin-top 5px;
+        }
+    style
+head
+body
+    div class=topdiv
+    div class=bannerdiv
+    div class=footer
+        ul
+            lili
+            lili
+            lili
+            li class=box2li
+        ul
+    div
+    div class=box
+        ul
+            lili
+            lili
+            lili
+            li class=box3li
+        ul
+    div
+    div class=bootmediv
+body
+html
